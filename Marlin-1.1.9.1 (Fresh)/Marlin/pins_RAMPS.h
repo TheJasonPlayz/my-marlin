@@ -44,9 +44,9 @@
  *         7 | 11
  */
 
-#if !defined(__AVR_ATmega1280__) && !defined(__AVR_ATmega2560__)
+/*#if !defined(__AVR_ATmega1280__) && !defined(__AVR_ATmega2560__)
   #error "Oops!  Make sure you have 'Arduino Mega' selected from the 'Tools -> Boards' menu."
-#endif
+#endif*/
 
 #ifndef BOARD_NAME
   #define BOARD_NAME "RAMPS 1.4"

@@ -1,0 +1,12 @@
+applet/
+.vscode/
+.pio/
+.pioenvs/
+.piolibdeps/
+*.o
+*~
+*.orig
+*.rej
+*.bak
+*.DS_Store
+*.idea
